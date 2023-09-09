@@ -1,6 +1,6 @@
 ## Members
 Steven An, Computer Engineering Student (2025)
-Steven An
+steven7608@vt.edu
 
 ## Repo Link
 <a class="button is-link" href="https://magicmirror.builders/" >https://magicmirror.builders/</a>
